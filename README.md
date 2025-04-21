@@ -1,6 +1,6 @@
 # React Router DOM Practice App
 
-This project was built during my Unit 3 Level-Up at General Assembly. My instrcutor set helped set a new goal to deepen my understanding of React Router and how to implement navigation within a single-page React application. I worked through the key features step-by-step and built a small Pokémon app to reinforce concepts like dynamic routing, route parameters, and programmatic navigation.
+This project was built during my Unit 3 Level-Up at General Assembly. My instrcutor helped me set a new goal to deepen my understanding of React Router and how to implement navigation within a single-page React application. I worked through the key features step-by-step and built a small Pokémon app to reinforce concepts like dynamic routing, route parameters, and programmatic navigation.
 
 ---
 
